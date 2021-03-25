@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\guiso\Documents\TEC\2021\I Semestre 2021\ALGORITMOS Y ESTRUCTURAS DE DATOS II\Tareas Extraclase\Tarea_Extraclase_II_DII_Design_Pattern"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug

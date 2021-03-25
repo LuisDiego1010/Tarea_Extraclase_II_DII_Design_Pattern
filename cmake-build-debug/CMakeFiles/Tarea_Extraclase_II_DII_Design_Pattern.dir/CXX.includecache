@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Builder.h
+Llantas.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Llantas.h
+Motor.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Motor.h
+Carroceria.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carroceria.h
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carroceria.h
+iostream
+-
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Llantas.h
+iostream
+-
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Motor.h
+iostream
+-
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cTesla.cpp
+cTesla.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cTesla.h
+
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cTesla.h
+Llantas.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Llantas.h
+Motor.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Motor.h
+Carroceria.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carroceria.h
+Builder.h
+C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Builder.h
+

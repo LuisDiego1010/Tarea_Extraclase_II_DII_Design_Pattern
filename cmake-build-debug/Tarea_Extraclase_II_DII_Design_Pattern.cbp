@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tarea_Extraclase_II_DII_Design_Pattern">
+				<Option output="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Tarea_Extraclase_II_DII_Design_Pattern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tarea_Extraclase_II_DII_Design_Pattern"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tarea_Extraclase_II_DII_Design_Pattern/fast">
+				<Option output="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Tarea_Extraclase_II_DII_Design_Pattern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tarea_Extraclase_II_DII_Design_Pattern/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Builder.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carro.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carro.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carroceria.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Carroceria.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Director.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Director.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Llantas.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Llantas.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Motor.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/Motor.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cL200.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cL200.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cSedan.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cSedan.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cTesla.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/cTesla.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Builder/main.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Abstract_comida.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Abstract_comida.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Fresco.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Fresco.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Menu_Facade.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Menu_Facade.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Platillo.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Platillo.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Postres.cpp">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/Facade/Postres.h">
+			<Option target="Tarea_Extraclase_II_DII_Design_Pattern"/>
+		</Unit>
+		<Unit filename="C:/Users/guiso/Documents/TEC/2021/I Semestre 2021/ALGORITMOS Y ESTRUCTURAS DE DATOS II/Tareas Extraclase/Tarea_Extraclase_II_DII_Design_Pattern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
